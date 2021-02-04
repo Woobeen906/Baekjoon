@@ -25,7 +25,7 @@ int main() {
 		if (alp[i] == max)cnt++;
 	}
 
-	if (cnt == 2)cout << '?';
+	if (cnt >= 2)cout << '?';
 	else cout << (char)(save+65);
 	
 	
