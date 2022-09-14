@@ -5,3 +5,4 @@ baekjoon.vcxproj.filters
 baekjoon.vcxproj.user
 baekjoon/
 Debug/ 
+*.hpp
