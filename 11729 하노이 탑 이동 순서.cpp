@@ -16,6 +16,7 @@ vector<pair<int, int>>v;
 void move(int start,int end,int block){
     
     v.push_back(make_pair(start, end));
+    cout<<start<<" "<<end<<"\n";
     k++;
 }
 
